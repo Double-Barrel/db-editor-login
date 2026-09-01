@@ -1,0 +1,6 @@
+{
+  "name": "db-editor-login",
+  "version": "1.0.0",
+  "private": true,
+  "description": "GitHub OAuth broker for Double Barrel Steakhouse Decap CMS editor"
+}
